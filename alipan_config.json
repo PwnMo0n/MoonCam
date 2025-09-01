@@ -2,7 +2,7 @@
 
 {
     "CLIENT_ID": "2222",  
-    "code": "2222",
+    "code": "",
     "client_secret": "2222",
     "ACCESS_TOKEN": "",
     "REFRESH_TOKEN": "",
